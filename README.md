@@ -1,4 +1,5 @@
 #Data Information
+
 The fastq data analysed here is downloaded from [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra).
 Accession number: SRR30723366 
 PLEASE CITE THE ORIGINAL STUDY IF USING THIS DATASET. THIS WORK IS FOR LEARNING AND DEMONSTRATION PURPOSES ONLY.
